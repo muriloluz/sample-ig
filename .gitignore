@@ -22,3 +22,9 @@ Thumbs.db
 # backup files #
 ################
 *.bak
+input-cache/*
+input-cache/schemas/R5/*
+.index.json
+.index.db
+validador/*
+
